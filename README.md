@@ -7,6 +7,8 @@ Hardwaer: MCU Esp8266, Relay board 16ch whit MCP23017
 
 Install micropython.
 
+Copy all scripts .py
+
 Run i2c.py
 
 ## Assembly
